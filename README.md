@@ -47,7 +47,7 @@ If the checks don't appear or if the checks are stuck in progress, there's a few
 
 1. Update the code in the `ci` branch to get the test to pass. You need to look something like this:
   ```markdown
-  _underscore_
+  underscore
   ```
 1. **Commit changes**.
 1. Wait about 20 seconds and then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/actions) will automatically update to the next step.
